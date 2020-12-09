@@ -38,5 +38,5 @@
 
 <img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhiPY&show_icons=true&hide_border=true" />
 
-[instagram]: https://www.instagram.com/abhishek.pandey_98/
+[instagram]: https://www.instagram.com/abhishek_pandey0701/
 [linkedin]: https://www.linkedin.com/in/abhishek-pandey-2b045872/
